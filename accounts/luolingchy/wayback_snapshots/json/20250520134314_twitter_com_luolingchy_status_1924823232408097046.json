@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1924440682372194738",
+    "created_at": "2025-05-20T13:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924823232408097046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924823232408097046",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924440682372194738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 我这边这些天最高19度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1924440682372194738",
+        "created_at": "2025-05-20T13:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924823232408097046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924823232408097046",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924440682372194738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 我这边这些天最高19度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1924440682372194738",
+        "created_at": "2025-05-19T12:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T13:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924440682372194738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924440682372194738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1313,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天气挺热的，有的地方那达到40度\n这么热的天你们不睡觉吗？白天天气太热我宁可吃安眠药睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "有时候推吞信息回复不及时可以tg找我\nhttps://t.co/MQ94gJzFFJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingchy",
+                "end": 42,
+                "expanded_url": "http://t.me/luolingchy",
+                "start": 19,
+                "url": "https://t.co/MQ94gJzFFJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingsp",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingsp",
+                "start": 0,
+                "url": "https://t.co/fxWV6heBqF"
+              }
+            ]
+          }
+        },
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1920833713593585900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 65,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/fxWV6heBqF",
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\n个人galgame站:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 85,
+                "expanded_url": "https://lsd.kim/",
+                "start": 62,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 1142,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

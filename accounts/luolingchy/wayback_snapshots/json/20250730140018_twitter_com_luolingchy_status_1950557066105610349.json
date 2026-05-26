@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1949884293171597718",
+    "created_at": "2025-07-30T14:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950557066105610349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "rcwikixyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950557066105610349",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949884293171597718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcwikixyz 遮沙避风了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6733,
+        "height": 640,
+        "media_key": "13_1949884269775740928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949884269775740928/img/oIaKIpnbQUKaRONU.jpg",
+        "public_metrics": {
+          "view_count": 211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949884269775740928/vid/avc1/320x580/Qy07Cbi1Uem6C-Ad.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949884269775740928/vid/avc1/352x640/WlPSoJLR2Aga-YcQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949884269775740928/pl/z-CUF6O5vEToPhV_.m3u8"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1949884293171597718",
+        "created_at": "2025-07-30T14:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950557066105610349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "rcwikixyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950557066105610349",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949884293171597718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcwikixyz 遮沙避风了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949884269775740928"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "conversation_id": "1949884293171597718",
+        "created_at": "2025-07-28T17:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949884293171597718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgRY9CUNBh",
+              "end": 34,
+              "expanded_url": "https://x.com/rcwikixyz/status/1949884293171597718/video/1",
+              "media_key": "13_1949884269775740928",
+              "start": 11,
+              "url": "https://t.co/sgRY9CUNBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949884293171597718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 414,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，夜生活开始了 https://t.co/sgRY9CUNBh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 34,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 66
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "同性恋博主｜黄片博主 ｜rcwiki官方账号｜ 药圈第一个化学品科普 https://t.co/qKJUyDNO1y ｜ 深度思考喜欢概念思维",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 58,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 35,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "👉👈",
+        "name": "帅是命（rcwiki.xyz）前高",
+        "pinned_tweet_id": "1943169008829944010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946149628623376384/z5WUIkdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 77,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

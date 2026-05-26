@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1961692505948508225",
+    "created_at": "2025-08-30T07:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961692505948508225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961692505948508225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961650654658834520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 昨日我朋友微信账户收到2400元，付款备注是手术费用，随后有人联系我们声称这是药物订金，要求寄药物，我们联系了付款人，确定对方被骗，黑切商家盗用了我朋友的收款码骗其手术订金，然后找我们下单药物，以此洗钱，我们已经退还受害者全额。记录全部放出，留24…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961650643950829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzku3g4bAAAKsvT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1961692505948508225",
+        "created_at": "2025-08-30T07:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961692505948508225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961692505948508225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961650654658834520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 昨日我朋友微信账户收到2400元，付款备注是手术费用，随后有人联系我们声称这是药物订金，要求寄药物，我们联系了付款人，确定对方被骗，黑切商家盗用了我朋友的收款码骗其手术订金，然后找我们下单药物，以此洗钱，我们已经退还受害者全额。记录全部放出，留24…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961650643950829568"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1961650654658834520",
+        "created_at": "2025-08-30T04:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961650654658834520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0cVMtlSA4",
+              "end": 167,
+              "expanded_url": "https://x.com/Minokakay/status/1961650654658834520/photo/1",
+              "media_key": "3_1961650643950829568",
+              "start": 144,
+              "url": "https://t.co/e0cVMtlSA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961650654658834520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3431,
+          "like_count": 58,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "昨日我朋友微信账户收到2400元，付款备注是手术费用，随后有人联系我们声称这是药物订金，要求寄药物，我们联系了付款人，确定对方被骗，黑切商家盗用了我朋友的收款码骗其手术订金，然后找我们下单药物，以此洗钱，我们已经退还受害者全额。记录全部放出，留24h澄清，没人联系明天放无码，呼吁转发。 https://t.co/e0cVMtlSA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 32,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9207,
+          "following_count": 939,
+          "like_count": 44574,
+          "listed_count": 33,
+          "media_count": 1398,
+          "tweet_count": 20697
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

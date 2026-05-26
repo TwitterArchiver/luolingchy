@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2023257936865472982",
+    "created_at": "2026-02-16T11:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023352395368222767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 26,
+          "id": "1947018736742879232",
+          "start": 11,
+          "username": "yuri_yuriverse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023352395368222767",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023272146534101305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me @yuri_yuriverse 国内进不来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2023257936865472982",
+        "created_at": "2026-02-16T11:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023352395368222767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 26,
+              "id": "1947018736742879232",
+              "start": 11,
+              "username": "yuri_yuriverse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023352395368222767",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023272146534101305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me @yuri_yuriverse 国内进不来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2023257936865472982",
+        "created_at": "2026-02-16T05:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023272146534101305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947018736742879232",
+              "start": 0,
+              "username": "yuri_yuriverse"
+            }
+          ],
+          "urls": [
+            {
+              "description": "SalviaSeller is the best online store to buy high quality salvia divinorum leaves and extracts! We deliver worldwide and ensure fast and discreet shipping.",
+              "display_url": "salviaseller.com",
+              "end": 39,
+              "expanded_url": "http://salviaseller.com",
+              "images": [
+                {
+                  "height": 627,
+                  "url": "https://pbs.twimg.com/news_img/2023272194609197056/DljCNypX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023272194609197056/DljCNypX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Buy Salvia Divinorum | High Quality | Low Price - SalviaSeller",
+              "unwound_url": "https://salviaseller.com/?v=1a13105b7e4e",
+              "url": "https://t.co/79BG6XkjFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023272146534101305",
+        "in_reply_to_user_id": "1947018736742879232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 721,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023271699329044889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuri_yuriverse https://t.co/79BG6XkjFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 37,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 101
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 1070,
+          "like_count": 5115,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3514
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T19:40:42.000Z",
+        "description": "寻找可以永远在一起的朋友/恋人\n‖我很缠人，对任何关系感情都很依赖，我不喜欢阶段性的关系，我只喜欢不厌其烦的问候与近乎病态的关心，无论是朋友也好 恋人也好\n‖现实比小说电影更加魔幻，在互联网上也可以找到真正可以永远在一起的人，一起分担，一起互相抚慰",
+        "id": "1947018736742879232",
+        "name": "yuri",
+        "pinned_tweet_id": "2016588620077945173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947019141665148928/HpBvtqD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 223,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 379
+        },
+        "username": "yuri_yuriverse",
+        "verified": false
+      }
+    ]
+  }
+}

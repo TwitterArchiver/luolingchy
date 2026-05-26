@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2023497687103074677",
+    "created_at": "2026-02-17T03:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023593661154599279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020723887189975040",
+          "start": 0,
+          "username": "kusutobi_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023593661154599279",
+    "in_reply_to_user_id": "2020723887189975040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023497687103074677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusutobi_2 秀色可餐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4666,
+        "height": 1100,
+        "media_key": "13_2023497627581501441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023497627581501441/img/Pd1lgsdRHF7EKxXT.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023497627581501441/vid/avc1/320x488/z0Ny3rljfLuSZ9_s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023497627581501441/vid/avc1/480x732/Ly7vqx9tKUmUDqpM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023497627581501441/vid/avc1/720x1100/p6ooJ5mAdOcfJXmo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023497627581501441/pl/30Y4BprBBzlP6Tt4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2023497687103074677",
+        "created_at": "2026-02-17T03:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023593661154599279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020723887189975040",
+              "start": 0,
+              "username": "kusutobi_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023593661154599279",
+        "in_reply_to_user_id": "2020723887189975040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023497687103074677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusutobi_2 秀色可餐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023497627581501441"
+          ]
+        },
+        "author_id": "2020723887189975040",
+        "conversation_id": "2023497687103074677",
+        "created_at": "2026-02-16T20:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023497687103074677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6W1ouDA3C4",
+              "end": 43,
+              "expanded_url": "https://x.com/kusutobi_2/status/2023497687103074677/video/1",
+              "media_key": "13_2023497627581501441",
+              "start": 20,
+              "url": "https://t.co/6W1ouDA3C4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023497687103074677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个入刚洗完头 头发犹如顺产般直线下垂 https://t.co/6W1ouDA3C4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 37,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T04:58:22.000Z",
+        "description": "楠鸢秽土转生个人账号/原号等待解封/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好？/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/HIafDZvTzG"
+              }
+            ]
+          }
+        },
+        "id": "2020723887189975040",
+        "name": "楠鸢",
+        "pinned_tweet_id": "2020725525942030728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020724152315875328/UmqqAkkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 26,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/HIafDZvTzG",
+        "username": "kusutobi_2",
+        "verified": false
+      }
+    ]
+  }
+}

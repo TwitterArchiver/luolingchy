@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023479859645972481"
+      ]
+    },
+    "author_id": "1595415869689044992",
+    "conversation_id": "2023479862409986195",
+    "created_at": "2026-02-16T19:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T20:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023479862409986195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzCaMdmBDH",
+          "end": 23,
+          "expanded_url": "https://x.com/luolingchy/status/2023479862409986195/photo/1",
+          "media_key": "3_2023479859645972481",
+          "start": 0,
+          "url": "https://t.co/pzCaMdmBDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023479862409986195",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pzCaMdmBDH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023479859645972481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTYNiRbAAEQF0u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023479859645972481"
+          ]
+        },
+        "author_id": "1595415869689044992",
+        "conversation_id": "2023479862409986195",
+        "created_at": "2026-02-16T19:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023479862409986195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzCaMdmBDH",
+              "end": 23,
+              "expanded_url": "https://x.com/luolingchy/status/2023479862409986195/photo/1",
+              "media_key": "3_2023479859645972481",
+              "start": 0,
+              "url": "https://t.co/pzCaMdmBDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023479862409986195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pzCaMdmBDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 37,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 104
+        },
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

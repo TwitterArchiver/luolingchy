@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2047466712162078874",
+    "created_at": "2026-04-24T00:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047466712162078874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047391087241601024",
+          "start": 3,
+          "username": "kkk97145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047466712162078874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047396382361677943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkk97145: 这里是楠鸢头像背景名字全都改了,但还是楠鸢。被小人举报惨遭制裁，麻烦转贴寻回互关谢谢大家。\n产品介绍在群组，有需求可以私信tg或x。\n欢迎来群里聊天或者打电话，不定期举办各种抽奖。\n号太容易炸了所以务必务必加入我的群组以免找不到我，这对我真的很重要拜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2047466712162078874",
+        "created_at": "2026-04-24T00:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047466712162078874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047391087241601024",
+              "start": 3,
+              "username": "kkk97145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047466712162078874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047396382361677943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkk97145: 这里是楠鸢头像背景名字全都改了,但还是楠鸢。被小人举报惨遭制裁，麻烦转贴寻回互关谢谢大家。\n产品介绍在群组，有需求可以私信tg或x。\n欢迎来群里聊天或者打电话，不定期举办各种抽奖。\n号太容易炸了所以务必务必加入我的群组以免找不到我，这对我真的很重要拜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047391087241601024",
+        "conversation_id": "2047396382361677943",
+        "created_at": "2026-04-23T19:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047396382361677943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @NY_rc right away.",
+              "display_url": "t.me/NY_rc",
+              "end": 152,
+              "expanded_url": "http://t.me/NY_rc",
+              "start": 129,
+              "status": 200,
+              "title": "神秘小物质小摊",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/2BMSUjjMKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047396382361677943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是楠鸢头像背景名字全都改了,但还是楠鸢。被小人举报惨遭制裁，麻烦转贴寻回互关谢谢大家。\n产品介绍在群组，有需求可以私信tg或x。\n欢迎来群里聊天或者打电话，不定期举办各种抽奖。\n号太容易炸了所以务必务必加入我的群组以免找不到我，这对我真的很重要拜托了。\nhttps://t.co/2BMSUjjMKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 50,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 228
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T19:04:17.000Z",
+        "description": "im楠鸢/致幻剂的信徒/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/详细产品咨询清私信/问题咨询https://t.co/zZLJaIjr89小号@mixtureofhate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "mixtureofhate"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi/",
+                "end": 77,
+                "expanded_url": "https://ngl.link/kusutobi/",
+                "start": 54,
+                "url": "https://t.co/zZLJaIjr89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NY_rc",
+                "end": 23,
+                "expanded_url": "http://t.me/NY_rc",
+                "start": 0,
+                "url": "https://t.co/5vNYxBQJge"
+              }
+            ]
+          }
+        },
+        "id": "2047391087241601024",
+        "name": "迪拉熊",
+        "pinned_tweet_id": "2047396382361677943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047391279487598593/BMvBLUeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/5vNYxBQJge",
+        "username": "kkk97145",
+        "verified": false
+      }
+    ]
+  }
+}

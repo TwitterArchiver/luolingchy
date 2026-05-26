@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2039871815779225721",
+    "created_at": "2026-04-03T08:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039979957640986974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478399380399230976",
+          "start": 0,
+          "username": "xinbuxiangqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039979957640986974",
+    "in_reply_to_user_id": "1595415869689044992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039979911495213301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbuxiangqing 3t还是4t没睡着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2039871815779225721",
+        "created_at": "2026-04-03T08:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039979957640986974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478399380399230976",
+              "start": 0,
+              "username": "xinbuxiangqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979957640986974",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039979911495213301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbuxiangqing 3t还是4t没睡着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2039871815779225721",
+        "created_at": "2026-04-03T08:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039979911495213301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478399380399230976",
+              "start": 0,
+              "username": "xinbuxiangqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979911495213301",
+        "in_reply_to_user_id": "1478399380399230976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039871815779225721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbuxiangqing 这玩意纯垃圾，我后面都是当致幻剂来吃的，不过抛去我去年住院那次这倒是我真正意义上第一次外幻 看空气中飘满一簇簇彩色细丝，甚至还有点触感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 35,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 143
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T16:14:21.000Z",
+        "description": "",
+        "id": "1478399380399230976",
+        "name": "小女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039299901469941760/4naf3jwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 10,
+          "like_count": 584,
+          "listed_count": 8,
+          "media_count": 27,
+          "tweet_count": 310
+        },
+        "username": "xinbuxiangqing",
+        "verified": false
+      }
+    ]
+  }
+}

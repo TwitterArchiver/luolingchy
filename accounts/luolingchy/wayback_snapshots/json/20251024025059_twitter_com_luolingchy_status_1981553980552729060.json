@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1981444296986546474",
+    "created_at": "2025-10-24T02:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T03:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981553980552729060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780208570098688000",
+          "start": 0,
+          "username": "hongaibin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981553980552729060",
+    "in_reply_to_user_id": "1780208570098688000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981444296986546474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongaibin 进狱系青年 我之前还答应请他吃药来着。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1981444296986546474",
+        "created_at": "2025-10-24T02:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981553980552729060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780208570098688000",
+              "start": 0,
+              "username": "hongaibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981553980552729060",
+        "in_reply_to_user_id": "1780208570098688000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981444296986546474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongaibin 进狱系青年 我之前还答应请他吃药来着。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780208570098688000",
+        "conversation_id": "1981444296986546474",
+        "created_at": "2025-10-23T19:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981444296986546474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "od"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RGZ388/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/RGZ388/status/1924059201958985786",
+              "start": 28,
+              "url": "https://t.co/v8uYJNNI4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981444296986546474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924059201958985786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人记得他吗 他哪去了?🥲 #od #overdose https://t.co/v8uYJNNI4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 39,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T12:16:25.000Z",
+        "description": "我是一个没人爱的家伙|\n重度抑郁|中度焦虑|\n感觉活着好窒息|\n如果可以 我希望380v的电压通过身体 直接让心脏骤停 最好没人发现我，这样我就可以死掉了|❌政治|喜欢overdose🤤🤤🤤|只在乎od本身|希望od社区和平发展/不喜欢斗争/本人只关注od/ https://t.co/IN6dKkUUir",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Angi_744",
+                "end": 153,
+                "expanded_url": "https://t.me/Angi_744",
+                "start": 130,
+                "url": "https://t.co/IN6dKkUUir"
+              }
+            ]
+          }
+        },
+        "id": "1780208570098688000",
+        "location": "广州白云山右美沙芬厂",
+        "name": "鸿哎彬",
+        "pinned_tweet_id": "1913690054876368925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912142912365682688/61l7jBBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 2209,
+          "like_count": 23416,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 6169
+        },
+        "username": "hongaibin",
+        "verified": false
+      }
+    ]
+  }
+}

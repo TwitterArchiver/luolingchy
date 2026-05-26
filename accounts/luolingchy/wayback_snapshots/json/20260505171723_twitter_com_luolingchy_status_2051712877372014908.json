@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2051634721998991538",
+    "created_at": "2026-05-05T17:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051712877372014908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2002090998797881344",
+          "start": 0,
+          "username": "Xiao_Yane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051712877372014908",
+    "in_reply_to_user_id": "2002090998797881344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051634721998991538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiao_Yane 我有一点点开始后悔没有囤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2051634721998991538",
+        "created_at": "2026-05-05T17:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051712877372014908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2002090998797881344",
+              "start": 0,
+              "username": "Xiao_Yane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051712877372014908",
+        "in_reply_to_user_id": "2002090998797881344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051634721998991538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiao_Yane 我有一点点开始后悔没有囤了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002090998797881344",
+        "conversation_id": "2051634721998991538",
+        "created_at": "2026-05-05T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051634721998991538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051634721998991538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃。现在网上怎么买不到愈美片了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 52,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 242
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T18:57:59.000Z",
+        "description": "",
+        "id": "2002090998797881344",
+        "name": "oxo",
+        "pinned_tweet_id": "2051327748837368237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043272305133166592/k6-FpaXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 7,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "Xiao_Yane",
+        "verified": false
+      }
+    ]
+  }
+}

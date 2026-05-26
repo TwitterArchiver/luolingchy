@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2045334453124231490",
+    "created_at": "2026-04-18T02:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045336099191726387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "Wilf_Lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045336099191726387",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045334453124231490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilf_Lin 需要，我会尽我所能来提供支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2045334440935645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ81l7XYAArTTR.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2045334453124231490",
+        "created_at": "2026-04-18T02:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045336099191726387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045336099191726387",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045334453124231490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 需要，我会尽我所能来提供支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045334440935645184"
+          ]
+        },
+        "author_id": "1554803647909097472",
+        "conversation_id": "2045334453124231490",
+        "created_at": "2026-04-18T02:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045334453124231490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSIwlpMeHG",
+              "end": 104,
+              "expanded_url": "https://x.com/Wilf_Lin/status/2045334453124231490/photo/1",
+              "media_key": "3_2045334440935645184",
+              "start": 81,
+              "url": "https://t.co/ZSIwlpMeHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045334453124231490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi，各位好，我现在大概已经拥有了蒸馏小炽（LORA，而不是skill/prompt）所必须的一部分信息，我想征求一下意见，你们认为应该创建一个类似小炽的AI吗 https://t.co/ZSIwlpMeHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 48,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 212
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "平和/死鱼被水推着游 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFoYb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 57,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 34,
+                "url": "https://t.co/6GiurlFoYb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1568,
+          "like_count": 39162,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 6961
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

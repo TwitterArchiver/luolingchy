@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1980936658594996695",
+    "created_at": "2025-10-23T01:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T02:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981178076244693228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775400487963267072",
+          "start": 0,
+          "username": "ChenCh68969"
+        },
+        {
+          "end": 26,
+          "id": "1963867793776070656",
+          "start": 13,
+          "username": "drug_artist1"
+        },
+        {
+          "end": 39,
+          "id": "1893688350076542976",
+          "start": 27,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981178076244693228",
+    "in_reply_to_user_id": "1775400487963267072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981105078120677836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenCh68969 @drug_artist1 @drug_artist 感觉听音乐还不如愚昧片。。 我下次试试50mg吧看psy说这个cd有点长"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [drug_artist].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "drug_artist",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "drug_artist"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-23T01:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T02:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981178076244693228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775400487963267072",
+              "start": 0,
+              "username": "ChenCh68969"
+            },
+            {
+              "end": 26,
+              "id": "1963867793776070656",
+              "start": 13,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 39,
+              "id": "1893688350076542976",
+              "start": 27,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981178076244693228",
+        "in_reply_to_user_id": "1775400487963267072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981105078120677836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenCh68969 @drug_artist1 @drug_artist 感觉听音乐还不如愚昧片。。 我下次试试50mg吧看psy说这个cd有点长"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775400487963267072",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-22T21:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T22:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981105078120677836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595415869689044992",
+              "start": 0,
+              "username": "luolingchy"
+            },
+            {
+              "end": 25,
+              "id": "1963867793776070656",
+              "start": 12,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 38,
+              "id": "1893688350076542976",
+              "start": 26,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981105078120677836",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980957779352527215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luolingchy @drug_artist1 @drug_artist 一定要听音乐 我打k不听音乐也不上头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 39,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T05:50:51.000Z",
+        "description": "无",
+        "id": "1775400487963267072",
+        "location": "江苏",
+        "name": "desheng chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841845282109325312/rVChsd70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 31,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "ChenCh68969",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主 投稿请私信我 提问箱:https://t.co/ez10SQHDdD 愿每一位药物滥用者都能脱离深渊 提供药物咨询 im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 44,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 21,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1969785519140970532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 52,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

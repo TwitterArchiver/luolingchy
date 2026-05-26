@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2027399806444838961",
+    "created_at": "2026-02-27T16:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027422326837698796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026095447190958080",
+          "start": 0,
+          "username": "Kusutobi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027422326837698796",
+    "in_reply_to_user_id": "2026095447190958080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027419262168522862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi5 呜呜呜我只是基础有点弱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2027399806444838961",
+        "created_at": "2026-02-27T16:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027422326837698796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026095447190958080",
+              "start": 0,
+              "username": "Kusutobi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027422326837698796",
+        "in_reply_to_user_id": "2026095447190958080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027419262168522862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi5 呜呜呜我只是基础有点弱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026095447190958080",
+        "conversation_id": "2027399806444838961",
+        "created_at": "2026-02-27T16:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027419262168522862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595415869689044992",
+              "start": 0,
+              "username": "luolingchy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027419262168522862",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027411302008951080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luolingchy 你问的你看看是人话不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 38,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 114
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T00:43:02.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/被封四次了详细产品咨询清私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/kg5CHNz7aw"
+              }
+            ]
+          }
+        },
+        "id": "2026095447190958080",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "2026797711438016613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026095573279870976/AON9yox0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 24,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/kg5CHNz7aw",
+        "username": "Kusutobi5",
+        "verified": false
+      }
+    ]
+  }
+}

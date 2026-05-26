@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1921474223517630734",
+    "created_at": "2025-05-13T04:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T05:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922144288005079502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695108682605080576",
+          "start": 0,
+          "username": "ccnanoQAQ"
+        },
+        {
+          "end": 20,
+          "id": "1816254834938634242",
+          "start": 11,
+          "username": "Ruyuu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922144288005079502",
+    "in_reply_to_user_id": "1695108682605080576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921474223517630734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccnanoQAQ @Ruyuu233 我也😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1921474215904968704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpynnQWgAAnZeA.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1921474223517630734",
+        "created_at": "2025-05-13T04:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T05:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922144288005079502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            },
+            {
+              "end": 20,
+              "id": "1816254834938634242",
+              "start": 11,
+              "username": "Ruyuu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922144288005079502",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921474223517630734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ @Ruyuu233 我也😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921474215904968704"
+          ]
+        },
+        "author_id": "1695108682605080576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921474223517630734",
+        "created_at": "2025-05-11T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921474223517630734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdaLQ3c4xe",
+              "end": 23,
+              "expanded_url": "https://x.com/ccnanoQAQ/status/1921474223517630734/photo/1",
+              "media_key": "3_1921474215904968704",
+              "start": 0,
+              "url": "https://t.co/QdaLQ3c4xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921474223517630734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2160,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QdaLQ3c4xe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "诶嘿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingsp",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingsp",
+                "start": 0,
+                "url": "https://t.co/fxWV6heBqF"
+              }
+            ]
+          }
+        },
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1920833713593585900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 72,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/fxWV6heBqF",
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "INTJ丨一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "坂下名乃🇫🇷 （悠长假期版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 997,
+          "like_count": 70743,
+          "listed_count": 5,
+          "media_count": 1707,
+          "tweet_count": 14219
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T23:31:30.000Z",
+        "description": "因特網遨遊的人魚姬🐟//地雷//病み//自傷//情緒不安定//adhd+躁鬱症+中度焦慮//不登校 🚪52口令//感謝投喂=￣ω￣=",
+        "id": "1816254834938634242",
+        "location": "幸福幸福请降临手心(。-`ω´-)",
+        "name": "✦ 鱼白",
+        "pinned_tweet_id": "1904590607512985833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921263757637869568/H5QVoue__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 290,
+          "like_count": 2525,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1665
+        },
+        "username": "Ruyuu233",
+        "verified": false
+      }
+    ]
+  }
+}

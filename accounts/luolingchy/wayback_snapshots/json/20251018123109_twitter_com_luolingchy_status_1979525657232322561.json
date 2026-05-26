@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1978323300163162308",
+    "created_at": "2025-10-18T12:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979525657232322561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748235492414607360",
+          "start": 0,
+          "username": "SoYouRmyCurse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979525657232322561",
+    "in_reply_to_user_id": "1748235492414607360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978323300163162308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoYouRmyCurse 这个月尘一份是多少mg啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1978323300163162308",
+        "created_at": "2025-10-18T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979525657232322561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748235492414607360",
+              "start": 0,
+              "username": "SoYouRmyCurse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979525657232322561",
+        "in_reply_to_user_id": "1748235492414607360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978323300163162308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoYouRmyCurse 这个月尘一份是多少mg啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748235492414607360",
+        "conversation_id": "1978323300163162308",
+        "created_at": "2025-10-15T04:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978323300163162308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978323300163162308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1149,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "12:45 月尘（3-MeO-PCE）1t 鼻吸\n非常经典的pcp衍生物味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 38,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T06:47:13.000Z",
+        "description": "备用号 除了生活什么都发丨non-binary丨osdd丨drugtwt丨冬だった醒めないで夢に見た桃源郷はもうそこにある",
+        "id": "1748235492414607360",
+        "location": "我一直在你身边哦",
+        "name": "冬がすぎたら",
+        "pinned_tweet_id": "1970917443691495521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969266786937032704/TiQGoj3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 39,
+          "like_count": 3799,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 265
+        },
+        "username": "SoYouRmyCurse",
+        "verified": false
+      }
+    ]
+  }
+}

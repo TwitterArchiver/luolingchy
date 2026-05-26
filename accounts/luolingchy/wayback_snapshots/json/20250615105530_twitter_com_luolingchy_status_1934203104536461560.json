@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1934149091191300218",
+    "created_at": "2025-06-15T10:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T11:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934203104536461560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "LethalRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934203104536461560",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934149091191300218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LethalRC 对面没🐻我不认可"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1934149079740911617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtd6VyibEAEAwCS.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1934149091191300218",
+        "created_at": "2025-06-15T10:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934203104536461560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "LethalRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934203104536461560",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934149091191300218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LethalRC 对面没🐻我不认可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934149079740911617"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934149091191300218",
+        "created_at": "2025-06-15T07:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T08:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934149091191300218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FEB8wmBTS",
+              "end": 23,
+              "expanded_url": "https://x.com/LethalRC/status/1934149091191300218/photo/1",
+              "media_key": "3_1934149079740911617",
+              "start": 0,
+              "url": "https://t.co/0FEB8wmBTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934149091191300218",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0FEB8wmBTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 34,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "同性恋博主｜ 催情药物测评 ｜ 化学品科普 https://t.co/qKJUyDNO1y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 45,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 22,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "👉👈",
+        "name": "👨",
+        "pinned_tweet_id": "1926254288885477839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933917476871667712/r35hyY4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 67,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "LethalRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1924826317725565316",
+    "created_at": "2025-05-20T13:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924826317725565316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924826317725565316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "六月停工一个月消费抓紧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1924826317725565316",
+        "created_at": "2025-05-20T13:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924826317725565316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924826317725565316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六月停工一个月消费抓紧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "有时候推吞信息回复不及时可以tg找我\nhttps://t.co/MQ94gJzFFJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingchy",
+                "end": 42,
+                "expanded_url": "http://t.me/luolingchy",
+                "start": 19,
+                "url": "https://t.co/MQ94gJzFFJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingsp",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingsp",
+                "start": 0,
+                "url": "https://t.co/fxWV6heBqF"
+              }
+            ]
+          }
+        },
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1920833713593585900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 65,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/fxWV6heBqF",
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

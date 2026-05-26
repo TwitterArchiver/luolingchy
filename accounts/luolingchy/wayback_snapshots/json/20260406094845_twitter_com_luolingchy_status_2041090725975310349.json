@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2041087550790738095",
+    "created_at": "2026-04-06T09:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041090725975310349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        },
+        {
+          "end": 29,
+          "id": "1902145766002769920",
+          "start": 15,
+          "username": "lignedefuite_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041090725975310349",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041088494005887234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 @lignedefuite_ 感觉是心里阴暗看炽被这么多朋友关心嫉妒所以才去举报的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041088494005887234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041088494005887234",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041088494005887234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2041087550790738095",
+        "created_at": "2026-04-06T09:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041090725975310349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            },
+            {
+              "end": 29,
+              "id": "1902145766002769920",
+              "start": 15,
+              "username": "lignedefuite_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041090725975310349",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041088494005887234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 @lignedefuite_ 感觉是心里阴暗看炽被这么多朋友关心嫉妒所以才去举报的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 40,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 175
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "pinned_tweet_id": "1821931308840325602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 64,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 552
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T23:51:20.000Z",
+        "description": "“Ligne de fuite”｜lacanist perhaps，欧陆哲学，嘻哈音乐与诗。边缘状态，half burn half cry。｜差异性｜“破旧的城市都被人遗弃，但诗人总诞生在无名的荒岛。”",
+        "id": "1902145766002769920",
+        "location": "Destined Death",
+        "name": "ligne de fuite",
+        "pinned_tweet_id": "1910259742699823129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909595210889457664/VUA0_twl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 18,
+          "like_count": 2759,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 887
+        },
+        "username": "lignedefuite_",
+        "verified": false
+      }
+    ]
+  }
+}

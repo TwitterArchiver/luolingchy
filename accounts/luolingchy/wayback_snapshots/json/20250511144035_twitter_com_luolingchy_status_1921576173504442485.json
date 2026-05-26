@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1921576173504442485",
+    "created_at": "2025-05-11T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921576173504442485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921576173504442485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地球OL5月份更新公告\n*修复了蚊子刷新数量过少的问题\n*修复了夜晚蚊子声音过小的问题\n*降低了玩家对蚊子命中率\n*加强了蚊子隐身的速度\n*修复了蚊子不能穿过蚊帐的问题\n*加强了蚊子对杀虫剂的抵抗力\n*加强蚊子叮咬后伤口的痕痒程度和持续时间\n*改善了蚊子的索敌优先级，现在优先针对耳朵等敏感部位"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1921576173504442485",
+        "created_at": "2025-05-11T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921576173504442485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921576173504442485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地球OL5月份更新公告\n*修复了蚊子刷新数量过少的问题\n*修复了夜晚蚊子声音过小的问题\n*降低了玩家对蚊子命中率\n*加强了蚊子隐身的速度\n*修复了蚊子不能穿过蚊帐的问题\n*加强了蚊子对杀虫剂的抵抗力\n*加强蚊子叮咬后伤口的痕痒程度和持续时间\n*改善了蚊子的索敌优先级，现在优先针对耳朵等敏感部位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "诶嘿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingsp",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingsp",
+                "start": 0,
+                "url": "https://t.co/fxWV6heBqF"
+              }
+            ]
+          }
+        },
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1920833713593585900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 71,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/fxWV6heBqF",
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

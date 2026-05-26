@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1935061601461416123",
+    "created_at": "2025-06-17T19:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T20:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935062819512475958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886567241510215682",
+          "start": 0,
+          "username": "yyyyyu3734"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935062819512475958",
+    "in_reply_to_user_id": "1886567241510215682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935061601461416123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyyyu3734 直接打电话喊醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1935061601461416123",
+        "created_at": "2025-06-17T19:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935062819512475958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886567241510215682",
+              "start": 0,
+              "username": "yyyyyu3734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935062819512475958",
+        "in_reply_to_user_id": "1886567241510215682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935061601461416123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyyyu3734 直接打电话喊醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886567241510215682",
+        "conversation_id": "1935061601461416123",
+        "created_at": "2025-06-17T19:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T20:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935061601461416123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935061601461416123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认识有一堆大学生，都有早八凌晨三点无法骚扰啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 34,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:07:49.000Z",
+        "description": "你好，请叫我小鱼",
+        "id": "1886567241510215682",
+        "name": "pizzzzzza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915566139431936003/xM-HHBFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 32,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 201
+        },
+        "username": "yyyyyu3734",
+        "verified": false
+      }
+    ]
+  }
+}

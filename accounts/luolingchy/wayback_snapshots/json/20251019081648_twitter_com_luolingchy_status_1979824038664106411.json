@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1979080836285894689",
+    "created_at": "2025-10-19T08:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T09:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979824038664106411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919942648808529920",
+          "start": 0,
+          "username": "Dad264114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979824038664106411",
+    "in_reply_to_user_id": "1919942648808529920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979752851858657339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dad264114 还行但是我服用得加量，在测试剂量，这两天让别人试试，想送的还不在国内，之后应该会卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1979080836285894689",
+        "created_at": "2025-10-19T08:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979824038664106411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919942648808529920",
+              "start": 0,
+              "username": "Dad264114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979824038664106411",
+        "in_reply_to_user_id": "1919942648808529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979752851858657339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dad264114 还行但是我服用得加量，在测试剂量，这两天让别人试试，想送的还不在国内，之后应该会卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919942648808529920",
+        "conversation_id": "1979080836285894689",
+        "created_at": "2025-10-19T03:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979752851858657339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595415869689044992",
+              "start": 0,
+              "username": "luolingchy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979752851858657339",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979080836285894689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luolingchy 蹲后续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 38,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T02:29:41.000Z",
+        "description": "",
+        "id": "1919942648808529920",
+        "name": "Dad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919942716441698304/rXFwBBba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 189,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 186
+        },
+        "username": "Dad264114",
+        "verified": false
+      }
+    ]
+  }
+}

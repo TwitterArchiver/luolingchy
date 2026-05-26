@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1979080836285894689",
+    "created_at": "2025-10-17T09:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979123931085717747"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979123931085717747",
+    "in_reply_to_user_id": "1595415869689044992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979080836285894689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "12mg 神奇的味道，刺激性很弱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979080825271427072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cbhmQXIAAJo_Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1979080836285894689",
+        "created_at": "2025-10-17T09:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979123931085717747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979123931085717747",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979080836285894689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12mg 神奇的味道，刺激性很弱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979080825271427072"
+          ]
+        },
+        "author_id": "1595415869689044992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979080836285894689",
+        "created_at": "2025-10-17T07:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979080836285894689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "3-Methoxyeticyclidine (also known as Methoxieticyclidine and 3-MeO-PCE) is a novel dissociative substance of the arylcyclohexylamine class that produces dissociative and hallucinogenic effects when administered. It is a structural analog of PCE.",
+              "display_url": "psychonautwiki.org/wiki/3-MeO-PCE",
+              "end": 50,
+              "expanded_url": "https://psychonautwiki.org/wiki/3-MeO-PCE",
+              "images": [
+                {
+                  "height": 907,
+                  "url": "https://pbs.twimg.com/news_img/1979080890564382720/kRJV7IEP?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979080890564382720/kRJV7IEP?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "3-MeO-PCE",
+              "unwound_url": "https://psychonautwiki.org/wiki/3-MeO-PCE",
+              "url": "https://t.co/hbFDcwcCSl"
+            },
+            {
+              "display_url": "pic.x.com/AolWHRqH5B",
+              "end": 74,
+              "expanded_url": "https://x.com/luolingchy/status/1979080836285894689/photo/1",
+              "media_key": "3_1979080825271427072",
+              "start": 51,
+              "url": "https://t.co/AolWHRqH5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979080836285894689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1g 3-meo-pce 据说月尘就是这个🤓今晚试试\nhttps://t.co/hbFDcwcCSl https://t.co/AolWHRqH5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 36,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

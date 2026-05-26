@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2043916320299987300",
+    "created_at": "2026-04-14T04:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043916320299987300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043916320299987300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请各位互关给我发送一条消息 我想把和炽的对话窗口刷到下面不然每次点开私信都会看到她触景生情 尝试了隐藏发现窗口还在，聊天记录也还不想删掉。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2043916320299987300",
+        "created_at": "2026-04-14T04:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043916320299987300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043916320299987300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请各位互关给我发送一条消息 我想把和炽的对话窗口刷到下面不然每次点开私信都会看到她触景生情 尝试了隐藏发现窗口还在，聊天记录也还不想删掉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 48,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 209
+        },
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

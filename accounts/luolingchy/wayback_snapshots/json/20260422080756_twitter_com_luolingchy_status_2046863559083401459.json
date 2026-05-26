@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2046793459030233333",
+    "created_at": "2026-04-22T08:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046863559083401459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779008306033639424",
+          "start": 0,
+          "username": "chikawaiiiiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046863559083401459",
+    "in_reply_to_user_id": "1779008306033639424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046793459030233333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chikawaiiiiia 出来一个似一个感觉会，就像现在没卖右美的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2046793459030233333",
+        "created_at": "2026-04-22T08:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046863559083401459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779008306033639424",
+              "start": 0,
+              "username": "chikawaiiiiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046863559083401459",
+        "in_reply_to_user_id": "1779008306033639424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046793459030233333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chikawaiiiiia 出来一个似一个感觉会，就像现在没卖右美的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779008306033639424",
+        "conversation_id": "2046793459030233333",
+        "created_at": "2026-04-22T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046793459030233333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046793459030233333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都禁售了 药商怎么还没出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 49,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 224
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:46:54.000Z",
+        "description": "高中无孩爱猫爱狗od女 喜欢抹茶 可以叫我c_aaaaat 欢迎找我互fo（已有男朋友）",
+        "id": "1779008306033639424",
+        "location": "Kawanishi-cho, Nara",
+        "name": "亖十",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791409692666912768/FETBZ0JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 137,
+          "like_count": 5767,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 590
+        },
+        "username": "chikawaiiiiia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1921409063604105722",
+    "created_at": "2025-05-11T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921409063604105722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luolingchy/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/luolingchy/status/1920833713593585900",
+          "start": 55,
+          "url": "https://t.co/pxuFtbjCUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921409063604105722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920833713593585900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭为什么这么多转贴的就一个人买，我补药亏钱啊😭😭😭给我拉两个客户消费就送一粒好吃的求求快点帮我拉人qaq https://t.co/pxuFtbjCUz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1920833707478597632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgsFHbbwAA1gi0.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1841,
+        "media_key": "3_1920833710229782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgsFRrXgAAFEYs.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1921409063604105722",
+        "created_at": "2025-05-11T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921409063604105722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luolingchy/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/luolingchy/status/1920833713593585900",
+              "start": 55,
+              "url": "https://t.co/pxuFtbjCUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921409063604105722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920833713593585900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭为什么这么多转贴的就一个人买，我补药亏钱啊😭😭😭给我拉两个客户消费就送一粒好吃的求求快点帮我拉人qaq https://t.co/pxuFtbjCUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920833707478597632",
+            "3_1920833710229782528"
+          ]
+        },
+        "author_id": "1595415869689044992",
+        "conversation_id": "1920833713593585900",
+        "created_at": "2025-05-09T13:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T14:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920833713593585900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "策划药"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "过检"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4hEYT126t",
+              "end": 113,
+              "expanded_url": "https://x.com/luolingchy/status/1920833713593585900/photo/1",
+              "media_key": "3_1920833707478597632",
+              "start": 90,
+              "url": "https://t.co/E4hEYT126t"
+            },
+            {
+              "display_url": "pic.x.com/E4hEYT126t",
+              "end": 113,
+              "expanded_url": "https://x.com/luolingchy/status/1920833713593585900/photo/1",
+              "media_key": "3_1920833710229782528",
+              "start": 90,
+              "url": "https://t.co/E4hEYT126t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920833713593585900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3510,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖啦抽奖啦～\n需要策划药的宝宝康康我 200/粒 五粒以上170/粒 十粒以上140/粒 转赞评此条14号抽3人送粒任选 支持担保全国包邮 一粒起发过检未列管\n#策划药 #过检 https://t.co/E4hEYT126t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "诶嘿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luolingsp",
+                "end": 23,
+                "expanded_url": "http://t.me/luolingsp",
+                "start": 0,
+                "url": "https://t.co/fxWV6heBqF"
+              }
+            ]
+          }
+        },
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1920833713593585900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 68,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/fxWV6heBqF",
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1931250321340456983",
+    "created_at": "2025-06-07T09:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T10:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931282690021400584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478399380399230976",
+          "start": 0,
+          "username": "xinbuxiangqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931282690021400584",
+    "in_reply_to_user_id": "1478399380399230976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931250321340456983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbuxiangqing 卡的话我倒是可以☝️🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1931250321340456983",
+        "created_at": "2025-06-07T09:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931282690021400584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478399380399230976",
+              "start": 0,
+              "username": "xinbuxiangqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931282690021400584",
+        "in_reply_to_user_id": "1478399380399230976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931250321340456983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbuxiangqing 卡的话我倒是可以☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478399380399230976",
+        "conversation_id": "1931250321340456983",
+        "created_at": "2025-06-07T07:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T08:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931250321340456983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931250321340456983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃啊，我想出门啊，我想od啊，我想被车撞😭我想打电话，我想卡泡行了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1926941740067393626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 36,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T16:14:21.000Z",
+        "description": "",
+        "id": "1478399380399230976",
+        "name": "小女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930712538670563328/zqjg2Bvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 5,
+          "like_count": 330,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "xinbuxiangqing",
+        "verified": false
+      }
+    ]
+  }
+}

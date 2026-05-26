@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "1929114447672668546",
+    "created_at": "2025-06-01T17:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T18:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929232716333027386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478399380399230976",
+          "start": 0,
+          "username": "xinbuxiangqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929232716333027386",
+    "in_reply_to_user_id": "1478399380399230976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929114447672668546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbuxiangqing ？？你啥情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929114421395406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWXWGpbQAAyaBz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "1929114447672668546",
+        "created_at": "2025-06-01T17:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T18:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929232716333027386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478399380399230976",
+              "start": 0,
+              "username": "xinbuxiangqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929232716333027386",
+        "in_reply_to_user_id": "1478399380399230976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929114447672668546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbuxiangqing ？？你啥情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929114421395406848"
+          ]
+        },
+        "author_id": "1478399380399230976",
+        "conversation_id": "1929114447672668546",
+        "created_at": "2025-06-01T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929114447672668546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnphGItyqd",
+              "end": 29,
+              "expanded_url": "https://x.com/xinbuxiangqing/status/1929114447672668546/photo/1",
+              "media_key": "3_1929114421395406848",
+              "start": 6,
+              "url": "https://t.co/nnphGItyqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929114447672668546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽啊通透啊 https://t.co/nnphGItyqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1926941740067393626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 53,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T16:14:21.000Z",
+        "description": "什么都不接什么都不加",
+        "id": "1478399380399230976",
+        "name": "小女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920900522409947136/y2HtdULS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 5,
+          "like_count": 308,
+          "listed_count": 6,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "xinbuxiangqing",
+        "verified": false
+      }
+    ]
+  }
+}

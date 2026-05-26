@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047693654215827456"
+      ]
+    },
+    "author_id": "1595415869689044992",
+    "conversation_id": "2047693659894886533",
+    "created_at": "2026-04-24T15:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047693659894886533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You can view and join @NY_rc right away.",
+          "display_url": "t.me/NY_rc",
+          "end": 45,
+          "expanded_url": "http://t.me/NY_rc",
+          "start": 22,
+          "status": 200,
+          "title": "神秘小物质小摊",
+          "unwound_url": "https://t.me/NY_rc",
+          "url": "https://t.co/jihbdZ5u9A"
+        },
+        {
+          "display_url": "pic.x.com/iK2IU7OPeF",
+          "end": 69,
+          "expanded_url": "https://x.com/luolingchy/status/2047693659894886533/photo/1",
+          "media_key": "3_2047693654215827456",
+          "start": 46,
+          "url": "https://t.co/iK2IU7OPeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047693659894886533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恭喜楠鸢老师号又掉了 怕找不到他可以加下他群https://t.co/jihbdZ5u9A https://t.co/iK2IU7OPeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2047693654215827456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGreh4RbIAA7oFF.jpg",
+        "width": 319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047693654215827456"
+          ]
+        },
+        "author_id": "1595415869689044992",
+        "conversation_id": "2047693659894886533",
+        "created_at": "2026-04-24T15:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047693659894886533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @NY_rc right away.",
+              "display_url": "t.me/NY_rc",
+              "end": 45,
+              "expanded_url": "http://t.me/NY_rc",
+              "start": 22,
+              "status": 200,
+              "title": "神秘小物质小摊",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/jihbdZ5u9A"
+            },
+            {
+              "display_url": "pic.x.com/iK2IU7OPeF",
+              "end": 69,
+              "expanded_url": "https://x.com/luolingchy/status/2047693659894886533/photo/1",
+              "media_key": "3_2047693654215827456",
+              "start": 46,
+              "url": "https://t.co/iK2IU7OPeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047693659894886533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜楠鸢老师号又掉了 怕找不到他可以加下他群https://t.co/jihbdZ5u9A https://t.co/iK2IU7OPeF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 50,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 235
+        },
+        "username": "luolingchy",
+        "verified": false
+      }
+    ]
+  }
+}

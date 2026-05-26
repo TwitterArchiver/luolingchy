@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2032805444461248999",
+    "created_at": "2026-03-14T16:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032850951095370171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2559711131",
+          "start": 0,
+          "username": "kusutobi6"
+        },
+        {
+          "end": 21,
+          "id": "1659962043460354050",
+          "start": 11,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032850951095370171",
+    "in_reply_to_user_id": "2559711131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032814763298758682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusutobi6 @SalviaSWC 这个是好人还是坏人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2032805444461248999",
+        "created_at": "2026-03-14T16:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032850951095370171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2559711131",
+              "start": 0,
+              "username": "kusutobi6"
+            },
+            {
+              "end": 21,
+              "id": "1659962043460354050",
+              "start": 11,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032850951095370171",
+        "in_reply_to_user_id": "2559711131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032814763298758682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusutobi6 @SalviaSWC 这个是好人还是坏人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2559711131",
+        "conversation_id": "2032805444461248999",
+        "created_at": "2026-03-14T13:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032814763298758682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032814763298758682",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032805444461248999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 笑嘻了我老是炸号就是因为卖药 不挂产品介绍都老是炸 你李哥还是嚣张直接一个置顶怼马斯克脸上😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 36,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-23T02:01:17.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/被封四次了详细产品咨询清私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/b7JClrc4IR"
+              }
+            ]
+          }
+        },
+        "id": "2559711131",
+        "name": "楠鸢Kusutobi（六代目)",
+        "pinned_tweet_id": "2029935877070217693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934731509350400/04C_VxOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 24,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/b7JClrc4IR",
+        "username": "kusutobi6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3263,
+          "following_count": 962,
+          "like_count": 21031,
+          "listed_count": 10,
+          "media_count": 359,
+          "tweet_count": 6165
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2040200924753215871",
+    "created_at": "2026-04-04T04:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T05:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040288134475485440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        },
+        {
+          "end": 22,
+          "id": "705777407794352129",
+          "start": 9,
+          "username": "ServalCandle"
+        },
+        {
+          "end": 33,
+          "id": "1070694634098065410",
+          "start": 23,
+          "username": "BootJenna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040288134475485440",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040200924753215871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMDusk @ServalCandle @BootJenna 如何做到的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2040158485267271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAZVUfa0AAkEld.jpg",
+        "width": 912
+      },
+      {
+        "height": 607,
+        "media_key": "3_2040158485292388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAZVUlaEAAFEio.png",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2040200924753215871",
+        "created_at": "2026-04-04T04:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040288134475485440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            },
+            {
+              "end": 22,
+              "id": "705777407794352129",
+              "start": 9,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 33,
+              "id": "1070694634098065410",
+              "start": 23,
+              "username": "BootJenna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040288134475485440",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040200924753215871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk @ServalCandle @BootJenna 如何做到的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040158485267271680",
+            "3_2040158485292388352"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2040200924753215871",
+        "created_at": "2026-04-03T22:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040200924753215871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "705777407794352129",
+              "start": 105,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 131,
+              "id": "1070694634098065410",
+              "start": 121,
+              "username": "BootJenna"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Shared with kDrive, the ethical cloud",
+              "display_url": "kdrive.infomaniak.com/app/share/2789…",
+              "end": 98,
+              "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+              "start": 75,
+              "status": 200,
+              "title": "ServalCandle BELL",
+              "unwound_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3/files/9",
+              "url": "https://t.co/Xg183NeUC4"
+            },
+            {
+              "display_url": "pic.x.com/r4twcUlYEE",
+              "end": 176,
+              "expanded_url": "https://x.com/DXMDusk/status/2040200924753215871/photo/1",
+              "media_key": "3_2040158485267271680",
+              "start": 153,
+              "url": "https://t.co/r4twcUlYEE"
+            },
+            {
+              "display_url": "pic.x.com/r4twcUlYEE",
+              "end": 176,
+              "expanded_url": "https://x.com/DXMDusk/status/2040200924753215871/photo/1",
+              "media_key": "3_2040158485292388352",
+              "start": 153,
+              "url": "https://t.co/r4twcUlYEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040200924753215871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1076,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "咴咴走了，但她的声音还在。\n\n推文存档已经做好了，放在瑞士服务器上，受FADP和GDPR保护。\n\n现在还能公开下，建议有回忆的朋友尽快保存。\n\n链接：https://t.co/Xg183NeUC4\n\n以后私信 @ServalCandle 或 @BootJenna 也可以要。\n\n感谢她们把她的痕迹留下来。 https://t.co/r4twcUlYEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 39,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 151
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 1096,
+          "like_count": 2004,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1991
+        },
+        "username": "DXMDusk",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/ Only block who blocked me / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33790,
+          "following_count": 416,
+          "like_count": 233377,
+          "listed_count": 105,
+          "media_count": 8986,
+          "tweet_count": 58423
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-06T15:01:08.000Z",
+        "description": "我不会找你要钱 包括 我不收门槛 🇨🇦泛+4i 靴控 大爱紧身衣 白丝 Love boots/zentai/bodysuit🇨🇳",
+        "id": "1070694634098065410",
+        "location": "Toronto, Ontario",
+        "name": "娜酱小可爱",
+        "pinned_tweet_id": "2034997462297935922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991625381028274177/mx5McTQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12603,
+          "following_count": 4174,
+          "like_count": 18805,
+          "listed_count": 45,
+          "media_count": 3433,
+          "tweet_count": 28818
+        },
+        "username": "BootJenna",
+        "verified": true
+      }
+    ]
+  }
+}
