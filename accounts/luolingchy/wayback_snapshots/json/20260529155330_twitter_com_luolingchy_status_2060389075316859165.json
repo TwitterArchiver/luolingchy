@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2059837327871197580",
+    "created_at": "2026-05-29T15:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060389075316859165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988495508420386816",
+          "start": 0,
+          "username": "Knockdxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060389075316859165",
+    "in_reply_to_user_id": "1988495508420386816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059837327871197580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knockdxm 具体是通过什么药物来进行搭配呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2059837016398061568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYC2lmbYAAFQKZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2059837058097803266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYC5A8a8AIUaxP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2059837069489565697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYC5rYbcAE1nAV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2059837327871197580",
+        "created_at": "2026-05-29T15:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060389075316859165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988495508420386816",
+              "start": 0,
+              "username": "Knockdxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060389075316859165",
+        "in_reply_to_user_id": "1988495508420386816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059837327871197580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knockdxm 具体是通过什么药物来进行搭配呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059837016398061568",
+            "3_2059837058097803266",
+            "3_2059837069489565697"
+          ]
+        },
+        "author_id": "1988495508420386816",
+        "conversation_id": "2059837327871197580",
+        "created_at": "2026-05-28T03:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059837327871197580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtlbjFYebM",
+              "end": 111,
+              "expanded_url": "https://x.com/Knockdxm/status/2059837327871197580/photo/1",
+              "media_key": "3_2059837016398061568",
+              "start": 88,
+              "url": "https://t.co/TtlbjFYebM"
+            },
+            {
+              "display_url": "pic.x.com/TtlbjFYebM",
+              "end": 111,
+              "expanded_url": "https://x.com/Knockdxm/status/2059837327871197580/photo/1",
+              "media_key": "3_2059837058097803266",
+              "start": 88,
+              "url": "https://t.co/TtlbjFYebM"
+            },
+            {
+              "display_url": "pic.x.com/TtlbjFYebM",
+              "end": 111,
+              "expanded_url": "https://x.com/Knockdxm/status/2059837327871197580/photo/1",
+              "media_key": "3_2059837069489565697",
+              "start": 88,
+              "url": "https://t.co/TtlbjFYebM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059837327871197580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 535,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个项目是模拟右美沙芬，不知道你们o感康的要不要试试哈，或者说有没有别的解离剂推荐一下 我想用血清素能物质+NMDA拮抗剂来模拟右美沙芬的抗抑郁+解离的主要效果，有人要试试吗 https://t.co/TtlbjFYebM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 56,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 251
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T06:35:06.000Z",
+        "description": "除了和担当在一起的时候都想死",
+        "id": "1988495508420386816",
+        "location": "西格玛高原",
+        "name": "🎀Knock🎊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049942650116362240/IO0qpUA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 74,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 122
+        },
+        "username": "Knockdxm",
+        "verified": false
+      }
+    ]
+  }
+}

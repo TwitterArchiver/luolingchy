@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2058571577445552477",
+    "created_at": "2026-05-26T11:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059233760957395336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1872669195747614720",
+          "start": 0,
+          "username": "Mikino404"
+        },
+        {
+          "end": 22,
+          "id": "1558048751302103041",
+          "start": 11,
+          "username": "ching__101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059233760957395336",
+    "in_reply_to_user_id": "1872669195747614720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058724606496932052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikino404 @ching__101 1颗含多少dxm呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2058571577445552477",
+        "created_at": "2026-05-26T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059233760957395336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1872669195747614720",
+              "start": 0,
+              "username": "Mikino404"
+            },
+            {
+              "end": 22,
+              "id": "1558048751302103041",
+              "start": 11,
+              "username": "ching__101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059233760957395336",
+        "in_reply_to_user_id": "1872669195747614720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058724606496932052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikino404 @ching__101 1颗含多少dxm呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872669195747614720",
+        "conversation_id": "2058571577445552477",
+        "created_at": "2026-05-25T01:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058724606496932052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558048751302103041",
+              "start": 0,
+              "username": "ching__101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058724606496932052",
+        "in_reply_to_user_id": "1558048751302103041",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058571577445552477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ching__101 250/1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 55,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 249
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T15:41:51.000Z",
+        "description": "⛧",
+        "id": "1872669195747614720",
+        "location": "墜",
+        "name": "Miii-K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014260164732583936/pksoGaM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 19,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "Mikino404",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:12:47.000Z",
+        "description": "あなたの気に入ってくれてありがとう",
+        "id": "1558048751302103041",
+        "location": "🚪52僅好友 88朋友圈",
+        "name": "離禾",
+        "pinned_tweet_id": "2058970408452604015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931841192817483777/PhfkrKty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3399,
+          "following_count": 50,
+          "like_count": 322,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 810
+        },
+        "username": "ching__101",
+        "verified": true
+      }
+    ]
+  }
+}
