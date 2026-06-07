@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2062900677895208970",
+    "created_at": "2026-06-05T14:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062900677895208970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2029243756529238018",
+          "start": 3,
+          "username": "Kusutobi_7"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @NYrcccc right away.",
+          "display_url": "t.me/NYrcccc",
+          "end": 127,
+          "expanded_url": "https://t.me/NYrcccc",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "新神秘物质小摊",
+          "unwound_url": "https://t.me/NYrcccc",
+          "url": "https://t.co/xHJ2iY0NDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062900677895208970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062654065457172687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kusutobi_7: 618在即 楠鸢将推出神秘大甩卖环节🥳🥳\n九折优惠 买三送一 自选药物\n还有超级多精美礼品\nplz加入我的群聊来了解详情\nos：msk我什么也没干不要封我号我错了😭\n我的群组：https://t.co/xHJ2iY0NDv https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2062654055877341184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAE73cWcAAxHbW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2062900677895208970",
+        "created_at": "2026-06-05T14:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062900677895208970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2029243756529238018",
+              "start": 3,
+              "username": "Kusutobi_7"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @NYrcccc right away.",
+              "display_url": "t.me/NYrcccc",
+              "end": 127,
+              "expanded_url": "https://t.me/NYrcccc",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "新神秘物质小摊",
+              "unwound_url": "https://t.me/NYrcccc",
+              "url": "https://t.co/xHJ2iY0NDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062900677895208970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062654065457172687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kusutobi_7: 618在即 楠鸢将推出神秘大甩卖环节🥳🥳\n九折优惠 买三送一 自选药物\n还有超级多精美礼品\nplz加入我的群聊来了解详情\nos：msk我什么也没干不要封我号我错了😭\n我的群组：https://t.co/xHJ2iY0NDv https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062654055877341184"
+          ]
+        },
+        "author_id": "2029243756529238018",
+        "conversation_id": "2062654065457172687",
+        "created_at": "2026-06-04T21:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062654065457172687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @NYrcccc right away.",
+              "display_url": "t.me/NYrcccc",
+              "end": 111,
+              "expanded_url": "https://t.me/NYrcccc",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062654114413047808/X1KPFTB5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "新神秘物质小摊",
+              "unwound_url": "https://t.me/NYrcccc",
+              "url": "https://t.co/xHJ2iY0NDv"
+            },
+            {
+              "display_url": "pic.x.com/2ViMWMeF5m",
+              "end": 135,
+              "expanded_url": "https://x.com/Kusutobi_7/status/2062654065457172687/photo/1",
+              "media_key": "3_2062654055877341184",
+              "start": 112,
+              "url": "https://t.co/2ViMWMeF5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062654065457172687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "618在即 楠鸢将推出神秘大甩卖环节🥳🥳\n九折优惠 买三送一 自选药物\n还有超级多精美礼品\nplz加入我的群聊来了解详情\nos：msk我什么也没干不要封我号我错了😭\n我的群组：https://t.co/xHJ2iY0NDv https://t.co/2ViMWMeF5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 57,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 257
+        },
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUVaY4 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUVaY4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/YFgaHXJMZ6"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "楠鸢Kusutobi(七代目)",
+        "pinned_tweet_id": "2062654065457172687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 40,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/YFgaHXJMZ6",
+        "username": "Kusutobi_7",
+        "verified": false
+      }
+    ]
+  }
+}
