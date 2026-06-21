@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2067945592064713192",
+    "created_at": "2026-06-19T14:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067973293521735957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886567241510215682",
+          "start": 0,
+          "username": "imwaitingforone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067973293521735957",
+    "in_reply_to_user_id": "1886567241510215682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067949481279299876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwaitingforone 命不该绝兄弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2067945592064713192",
+        "created_at": "2026-06-19T14:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067973293521735957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886567241510215682",
+              "start": 0,
+              "username": "imwaitingforone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067973293521735957",
+        "in_reply_to_user_id": "1886567241510215682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067949481279299876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwaitingforone 命不该绝兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886567241510215682",
+        "conversation_id": "2067945592064713192",
+        "created_at": "2026-06-19T12:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067949481279299876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067949481279299876",
+        "in_reply_to_user_id": "1886567241510215682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067945592064713192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在桥洞他妈的蹲点了两个小时吃完药一个小时都没看见一个人影我一失去意识马上就有人了，这群人大半夜不睡觉到底去桥洞干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 60,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T00:07:49.000Z",
+        "description": "hi我谁也不是",
+        "id": "1886567241510215682",
+        "name": "leave me alone",
+        "pinned_tweet_id": "2031999936020299804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025145373879369728/RRYRZsCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 89,
+          "like_count": 1452,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "imwaitingforone",
+        "verified": false
+      }
+    ]
+  }
+}
