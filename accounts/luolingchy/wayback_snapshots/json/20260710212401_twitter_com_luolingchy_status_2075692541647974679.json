@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1595415869689044992",
+    "conversation_id": "2070622148708995204",
+    "created_at": "2026-07-10T21:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T22:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075692541647974679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858868336366678016",
+          "start": 0,
+          "username": "5car1e4"
+        },
+        {
+          "end": 23,
+          "id": "1736770813607727104",
+          "start": 9,
+          "username": "heartsoftsoft"
+        },
+        {
+          "end": 34,
+          "id": "3022697779",
+          "start": 24,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075692541647974679",
+    "in_reply_to_user_id": "1858868336366678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071360780134687010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5car1e4 @heartsoftsoft @RXdruglab 有后续了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2070622148708995204",
+        "created_at": "2026-07-10T21:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075692541647974679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858868336366678016",
+              "start": 0,
+              "username": "5car1e4"
+            },
+            {
+              "end": 23,
+              "id": "1736770813607727104",
+              "start": 9,
+              "username": "heartsoftsoft"
+            },
+            {
+              "end": 34,
+              "id": "3022697779",
+              "start": 24,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075692541647974679",
+        "in_reply_to_user_id": "1858868336366678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071360780134687010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5car1e4 @heartsoftsoft @RXdruglab 有后续了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858868336366678016",
+        "conversation_id": "2070622148708995204",
+        "created_at": "2026-06-28T22:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071360780134687010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736770813607727104",
+              "start": 0,
+              "username": "heartsoftsoft"
+            },
+            {
+              "end": 25,
+              "id": "3022697779",
+              "start": 15,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071360780134687010",
+        "in_reply_to_user_id": "1736770813607727104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245713540026395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heartsoftsoft @RXdruglab 不知道 我去黄鱼找的米国代购"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 61,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "luolingchy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T13:42:23.000Z",
+        "description": "倘若你想被青睐、娱君伴驾或效犬马之劳，空口无凭 ，用行动来证明你的忠诚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yyyyyyy.info",
+                "end": 23,
+                "expanded_url": "http://yyyyyyy.info",
+                "start": 0,
+                "url": "https://t.co/NTXArsxJyc"
+              }
+            ]
+          }
+        },
+        "id": "1858868336366678016",
+        "location": "阿佐特图书馆",
+        "name": "谵妄诡辩",
+        "pinned_tweet_id": "2039679500376739973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074629669480222721/tPQkEHlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/NTXArsxJyc",
+        "username": "5car1e4",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-18T15:30:15.000Z",
+        "description": "慢半拍、说错话请谅解，这里是一只叫optimusprime的小猫在玩手机｜互fo妹子only｜我是bella/チイカミャ",
+        "id": "1736770813607727104",
+        "location": "🤍",
+        "name": "rsf",
+        "pinned_tweet_id": "1957089612880564629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978034808623411200/MvbWvQKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "heartsoftsoft",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19730,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 23,
+          "media_count": 59,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}
